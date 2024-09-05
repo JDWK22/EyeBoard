@@ -13,8 +13,13 @@ While I appreciate this board, it spends a majority of its life sadly on a shelf
 
 ## Spec list as of 9/5/2024
 DZ60 RGB PCB
+
 Carbon fiber plate
+
 Plate and case foams
+
 Gateron Milky Yellow switches | Lubed
+
 KBDFans Klein Blue keycaps
+
 Cherry screw-in stabilizers
