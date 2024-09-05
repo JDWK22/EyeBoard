@@ -1,2 +1,2 @@
 # Who I am and what this is;
-    Ever since I first had access to a computer, I became infatuated with video games. Now being a relativly shy kid in the 2010's, i'm that notion is a surprise to absolutely nobody.
+Ever since I first had access to a computer, I became infatuated with video games. Now being a relativly shy kid in the 2010's, i'm that notion is a surprise to absolutely nobody.
