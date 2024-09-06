@@ -12,4 +12,23 @@ By this point in time, the linear switch genre which I determined to by my favor
 
 I love this switch, the cute white and brown appearance, the funny name, the perfect specs, it was exactly what I wanted for this endgame board, and it was immediately purchased
 
-## Keycaps
+### Keycaps
+Seeing that everything I had ever purchased from KBDFans up until this point had been of top notch quality, they were the first placed I looked when sourcing keycaps for this build.
+
+I am so glad that I searched here first.
+
+When I first learned about GMK keycaps, I saw that there was a set done in 2019, prior to my entrance to the hobby, that I loved. Colored after my favorite Pokemon, Shiny Umbreon, the GMK Umbra set was perfect. Legible white text on a clean grey background, blue text for the modifiers, light blue accents, it was exactly what I wanted. Unfortunately, the set was completely sold out three years ago, cost nearly $400 on secondhand, and was impossible to even find for sale. And then, as if a a divine retribution for me missing out on the GMK Cobalt set, GMK Umbra's designer Pach announced that he was working with KBDFans to create a keycaps set alongside them, a reimagination of the GMK Umbra set named PBTFans Umbra. That's right, for all intents and purposes they were making the exact same color scheme but with a different plastic material (PBT as opposed to ABS) and slightly adjusted color saturation. I was astonished, and immediately ordered the set.
+
+## The build
+The build turned out as perfectly as I wanted it to. I left many items stock, performed the holee and band aid mods from my previous board that I loved, and slapped the kit together to create my primary gaming board. Suring it is a bit large for a gaming keyboard being a TKL, but even as someone who primarily plays FPS games with a very low mouse sensitivity, the size is a non-issue and the spaced out function row is a godsend for preventing accidental presses. I love this board, and even over a year later as of writing this I have not had a desire to replace this board, even though hall effect keyboard technology is quite interesting.
+
+## Specs list as of 9/5/2024
+Meletrix Zoom TKL kit
+
+All foams EXCEPT for battery foam - I found this gave the board more of a flex, which I quite like
+
+Gateron Baby Raccoon switches | Stock
+
+PBTFans Umbra
+
+Stock stabilizers | Holee and band-aid mods
