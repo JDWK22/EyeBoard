@@ -11,6 +11,7 @@ Aside from trying out an actually HHKB topre board at a meet, I have never tried
 
 ## Specs list as of 9/10/2024
 ![Image](typing.jpg)
+
 KBDFans Tofu60 2.0 - Cement Grey - HHKB - Silicone bowl mount
 
 Durock T1 Tactile switches | Lubed and filmed
