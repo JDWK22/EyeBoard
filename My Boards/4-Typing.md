@@ -8,7 +8,7 @@ While I had tried feeling them before, tactile switches never stood out to me as
 Since most typists and writers generally stick to the characters relating to language, a 60% keyboard tends to make sense. Were I dealing with numbers frequently then a larger size would make sense, but I also wanted to keep portability in mind so 60% it was. When looking for high quality, relatively budget conscious board kits from reputable manufacturers is the goal, the Tofu60 2.0 easily stood out at the time. This board also allowed me something new to try, the HHKB layout.
 
 Aside from trying out an actually HHKB topre board at a meet, I have never tried non-standard keyboard layouts before. Despite this, the changes to caps lock and delete/backspace were extremely interesting to me. Being able to reach some of my most used keys without straining my pinkies and wrist sounded amazing.
-![Typing Board](typing.jpg)
+![](typing.jpg)
 ## Specs list as of 9/10/2024
 KBDFans Tofu60 2.0 - Cement Grey - HHKB - Silicone bowl mount
 
