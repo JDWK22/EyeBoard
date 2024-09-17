@@ -10,7 +10,7 @@ Since most typists and writers generally stick to the characters relating to lan
 Aside from trying out an actually HHKB topre board at a meet, I have never tried non-standard keyboard layouts before. Despite this, the changes to caps lock and delete/backspace were extremely interesting to me. Being able to reach some of my most used keys without straining my pinkies and wrist sounded amazing.
 
 ## Specs list as of 9/10/2024
-![alt text](../images/Typing.jpg)
+![](../My%20Boards//images/Typing.jpg)
 
 KBDFans Tofu60 2.0 - Cement Grey - HHKB - Silicone bowl mount
 
