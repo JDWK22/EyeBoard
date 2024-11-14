@@ -1,0 +1,1 @@
+basically state how these will mostly pertain to predesigned kits/thoughts on the manufacturer, not so much custom kits/items.
