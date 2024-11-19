@@ -12,6 +12,7 @@ This concept is nothing new, and people have been designing custom gaming mice a
  journey to learn CAD software and create my own mouse.
 
  ## Iterating My Design
+ ### V1
  The start of designing the mouse was rough, but thanks to my roommate Caden I was able to quickly pick up the basic actions within the CAD software I was using (Fusion 360) and get started on a mouse. The first few hours consisted of Caden essentially reaching over my shoulders,
  grabbing the keyboard and mouse, and telling me what he was doing. After a bit I started getting the hang of it. Learning what different extrusion options meant, how and why I should make new planes, even how to get proper measurements off the PCB from my old mouse I was harvesting for this creation.
  Eventually I got to a point where I was relatively self sufficient, and he left to visit his girlfriend out of town for a few days. From that point I was on my own, and all I had in front of me was a rough outline of the PCB dimensions and some standoffs for screws to line up with.
@@ -31,3 +32,16 @@ This concept is nothing new, and people have been designing custom gaming mice a
  flexing on the crossbar) I do NOT recommend putting pressure on any form of battery, especially lithium polymer batteries like what are used in most computer mice. However, with this done I was able to test the mouse.<br><br>It sucked.<br><br>Both triggers for the mouse were at the same height,
   and since my wrist was rotated while holding the mouse, it felt as though the left button was lower which felt uncomfortable. Additionally, the mouse was impossible to move forward and backwards. While I had grips on the side, there was no angle to aid me in moving the mouse towards and away from me,
   meaning if I tried to aim up or down in a video game the mouse would feel slippery. While these all gave me new ideas for another variation, I was ultimately so excited to actually be playing games with a mouse I designed myself.
+
+### Version 4
+Version 4 is just about the end of this journey, and as of when I am writing this is the current physical version. In this version I raised the crossbar, added supports to the triggers to prevent unnecessary flex, and added flares to the side grips to keep my fingers in place. This ultimately 
+has given my the effective final version. After printing it, the mouse is almost exactly what I wanted. Sure there are places that I could improve the mouse, but as it sits I am more than happy with how this project has turned out. This whole time I have been using my roommate printer, his filament,
+and his supporting accessories. I think that in order to iterate on and improve this mouse further, I would need to both obtain my own printer and start the mouse creation again from scratch. As a whole I view this as a successful starter project, and while I do have a V5 ready to print I do expect this 
+to be the final version of this specific blueprint.
+
+## What I learned
+The number one takeaway from this project is a new respect for product designers, especially in the computer mouse industry. I would say that in every aspect aside from weight, I have created a worse mouse than the donor that I started with.
+My creation is fragile, ugly, uncomfortable, and physically jagged with the only benefit being a cut from 62 grams down to 32 grams. Is a 30 gram weight saving in a mouse worth all the sacrifice? I would say no. My other mouse that I use on the daily is way more comfortable and easy to use, but I am still happy for the experience and glad that I made the custom mouse specifically for myself. I definitely see myself one day buying my own 3-D printer to create more iterations and likely a new fresh product.
+
+### The Current Version: V4
+![](../Blogs/BlogImages/JMouseV4.jpg)
