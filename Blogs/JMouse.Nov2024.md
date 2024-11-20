@@ -45,6 +45,7 @@ back who taught me to add fillets, a curve on hard angles to decrease stress poi
 It's comfortable, lightweight, and strong. Once I had decided that this was it, I talked with my roommate and we looked into al alternative printing strategy for this final model. Leading up to this point, we had been using a .4mm nozzle to print basic PLA plastic. This created a relatively shiny
 product with layer lines barely visible to the eye and noticeable by touch. For this final revision, we changed to using a .2mm nozzle for a much higher resolution print (at the expense of taking nearly 6 times as long) and replacing the basic white PLA plastic with a carbon fiber reinforced PLA.
 These two printing changes resulted in a mouse with lower weight, no noticeable layer lines, and a sleek matte black appearance (although this did take two attempts, as the first print failed).
+[Link to the Bambu Lab MakerWorld file page](https://makerworld.com/en/models/807279#profileId-747978)
 ![](../Blogs/BlogImages/JMouseFINAL.jpg)
 
 
