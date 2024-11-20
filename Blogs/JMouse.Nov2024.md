@@ -34,14 +34,27 @@ This concept is nothing new, and people have been designing custom gaming mice a
   meaning if I tried to aim up or down in a video game the mouse would feel slippery. While these all gave me new ideas for another variation, I was ultimately so excited to actually be playing games with a mouse I designed myself.
 
 ### Version 4
-Version 4 is just about the end of this journey, and as of when I am writing this is the current physical version. In this version I raised the crossbar, added supports to the triggers to prevent unnecessary flex, and added flares to the side grips to keep my fingers in place. This ultimately 
-has given my the effective final version. After printing it, the mouse is almost exactly what I wanted. Sure there are places that I could improve the mouse, but as it sits I am more than happy with how this project has turned out. This whole time I have been using my roommate printer, his filament,
-and his supporting accessories. I think that in order to iterate on and improve this mouse further, I would need to both obtain my own printer and start the mouse creation again from scratch. As a whole I view this as a successful starter project, and while I do have a V5 ready to print I do expect this 
-to be the final version of this specific blueprint.
+Version 4 is just about the end of this journey, and as of when I am writing this is the current physical version. In this version I raised the crossbar, added supports to the triggers to prevent unnecessary flex, and added flares to the side grips to keep my fingers in place.
+![](../Blogs/BlogImages/JMouseV4.jpg)
+At first I assumed this would be my final revision, to the point that I had previously written out this segment detailing exactly that. However, I knew that there was one more crucial change to drastically improve the mouse as a whole.<br><br>In gaming mice, it is generally better to have the mouses optical sensor closer to your fingertips,
+so that it seems to move faster in accordance with your fingers. As of version 4, my mouse had the sensor placed just behind my thumb. This was far from optimal, and to change it would essentially require a complete redesign of the mouse from scratch, and so that is what I did. 
+
+### Version 5 // Final
+Only carrying over rough measurements and the grips that I had designed, I completely rebuilt the mouse. A new frame, new rounded triggers, a new placement of the support crossbar, and various other changes came together to create version 5. This change ended up being a phenomenal idea. By this point I had my roommate
+back who taught me to add fillets, a curve on hard angles to decrease stress points, to create a stronger frame that appeared much more refined. After printing version 5 I was sure that this was the final revision, and I can confidently say now that for this journey version 5 is the final version.
+It's comfortable, lightweight, and strong. Once I had decided that this was it, I talked with my roommate and we looked into al alternative printing strategy for this final model. Leading up to this point, we had been using a .4mm nozzle to print basic PLA plastic. This created a relatively shiny
+product with layer lines barely visible to the eye and noticeable by touch. For this final revision, we changed to using a .2mm nozzle for a much higher resolution print (at the expense of taking nearly 6 times as long) and replacing the basic white PLA plastic with a carbon fiber reinforced PLA.
+These two printing changes resulted in a mouse with lower weight, no noticeable layer lines, and a sleek matte black appearance (although this did take two attempts, as the first print failed).
+![](../Blogs/BlogImages/JMouseFINAL.jpg)
+
 
 ## What I learned
 The number one takeaway from this project is a new respect for product designers, especially in the computer mouse industry. I would say that in every aspect aside from weight, I have created a worse mouse than the donor that I started with.
-My creation is fragile, ugly, uncomfortable, and physically jagged with the only benefit being a cut from 62 grams down to 32 grams. Is a 30 gram weight saving in a mouse worth all the sacrifice? I would say no. My other mouse that I use on the daily is way more comfortable and easy to use, but I am still happy for the experience and glad that I made the custom mouse specifically for myself. I definitely see myself one day buying my own 3-D printer to create more iterations and likely a new fresh product.
+My creation is fragile, ugly, uncomfortable, and physically jagged with the only benefit being a cut from 62 grams down to 32 grams. Is a 30 gram weight saving in a mouse worth all the sacrifice? I would say no. My other mouse that I use on the daily is way more comfortable and easy to use, but I am still happy for the experience and glad that I made the custom mouse specifically for myself. 
+I definitely see myself one day buying my own 3-D printer to create more iterations and likely a new fresh product.<br><br>
+It also ended up being a nice bonding experience with my roommate. Asking him questions about CAD, showing him my successful and failed prototypes, and ultimately being able to share the excitement of a project completed with someone who knows so much about this was fullfilling.
 
-### The Current Version: V4
-![](../Blogs/BlogImages/JMouseV4.jpg)
+### Gallery
+![](../Blogs/BlogImages/allrevs.jpg)
+![](../Blogs/BlogImages/finalrevALT.jpg)
+![](../Blogs/BlogImages/finalrevbottom.jpg)
