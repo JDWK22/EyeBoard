@@ -55,7 +55,7 @@ My creation is fragile, ugly, uncomfortable, and physically jagged with the only
 I definitely see myself one day buying my own 3-D printer to create more iterations and likely a new fresh product.<br><br>
 It also ended up being a nice bonding experience with my roommate. Asking him questions about CAD, showing him my successful and failed prototypes, and ultimately being able to share the excitement of a project completed with someone who knows so much about this was fullfilling.
 
-### Gallery
+# Gallery
 ![](../Blogs/BlogImages/allrevs.jpg)
 ![](../Blogs/BlogImages/finalrevALT.jpg)
 ![](../Blogs/BlogImages/finalrevbottom.jpg)
