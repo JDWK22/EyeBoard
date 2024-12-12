@@ -5,7 +5,7 @@ myself until very recently.</br></br>
 Not too long ago I got myself a new computer mouse, something I had been saving and waiting for for quite a while. However, I didn't want my old mouse to go to waste. What am I going to do with it? I don't plan on swapping between both, and I really have no use
 for a spare since I trust the new mouse to last me a lifetime. So instead, I reached out to my roommate for his expertise in a new project; creating a custom gaming mouse.
 
-## The inspiration
+## The Inspiration
 This concept is nothing new, and people have been designing custom gaming mice at home ever since additive manufacture became something that you could get at home, most often stemming from this same idea as me; "I got a knew mouse, what do I do with
  my old one that still works?" Scrolling [Thingiverse](https://www.thingiverse.com/search?q=g+pro+mouse&page=1) shows that there is no lack of mod kits for one of the most popular gaming mice on the market, but for my old mouse, 
  the [Xtryfy MZ1 Wireless](https://cherryxtrfy.com/mice/mz1-wireless/), there was nothing to be found. So, drawing inspiration from Australian Youtuber [Optimum Tech](https://www.youtube.com/watch?v=aHLzNnL81ms) and his custom designed "Zeromouse", I embarked on my 
@@ -49,7 +49,7 @@ These two printing changes resulted in a mouse with lower weight, no noticeable 
 ![](../Blogs/BlogImages/JMouseFINAL.jpg)
 
 
-## What I learned
+## What I Learned
 The number one takeaway from this project is a new respect for product designers, especially in the computer mouse industry. I would say that in every aspect aside from weight, I have created a worse mouse than the donor that I started with.
 My creation is fragile, ugly, uncomfortable, and physically jagged with the only benefit being a cut from 62 grams down to 32 grams. Is a 30 gram weight saving in a mouse worth all the sacrifice? I would say no. My other mouse that I use on the daily is way more comfortable and easy to use, but I am still happy for the experience and glad that I made the custom mouse specifically for myself. 
 I definitely see myself one day buying my own 3-D printer to create more iterations and likely a new fresh product.<br><br>
