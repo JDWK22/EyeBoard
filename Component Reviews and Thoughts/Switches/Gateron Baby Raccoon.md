@@ -1,16 +1,17 @@
-# I Think I Found My Perfect Switch
+# Gateron Baby Raccoon - Linear
+## I Think I Found My Perfect Switch
 Throughout my time building keyboards, I have always gravitated towards linear switches. The smoothness they provide is extremely satisfying to me, and since I often bottom out my keys it prevents the unnecessary bump that tactile switches cause. When looking for a switch to put in my ZoomTKL, I knew I wanted a linear switch as the board would be used mostly for gaming. When I saw that Gateron had released their Baby Raccoon switches, I was sold. A linear switch using the tried-and-true polycarbonate/nylon/POM construction, Gateron's new lubing process, and a long pole is perfect for my gaming build
 
-## Gateron Lubing
+### Gateron Lubing
 Over the years, many different switch manufacturers have tried their hand at a good factory lubing technique. Many times this results in switches being way under-lubed or way over-lubed. However with these switches (which were an early use of Gateron's new switch lubing technique) the lube job was extremely impressive to me. Across my TKL sized board all switches feel both identical and extremely smooth. This is honestly really impressive, as in my opinion the improvements to factory lubing is moving us towards not even needing to lube. Sure the super invested people may want to have all their switches lubed with a specific lube, or different lubes per key, but for the average joe/someone just looking for a really good switch from the factory then Gateron is making strides.
 
-## Long Pole Switches and Their Sound
+### Long Pole Switches and Their Sound
 One aspect where these switches are completely new to me, is their long center pole. A long pole switch tends to have a high pitched and more full sound, since the long pole creates more of a cavity inside the switch for sound to resonate. This makes the Baby Raccoon present quite a high-pitched and full sound that I would describe as "poppy" which I love. One comment I have received on this board that really resonates with me is describing the sound as like [building in a Lego video game](https://www.youtube.com/watch?v=fHOPZwnG4B8). The switches sound so different from anything else I have ever heard, which I love but understand why others may not. To me, a keyboard switch that feels amazing and sounds awesome/different is about as good as it gets.
 
 [Here is a link to how this switch and the board it is in sounds.](https://www.youtube.com/watch?v=TSuCNi9Gyr4)
 
-## The Packaging
+### The Packaging
 Now, I have to admit. I absolutely love these switches, and am scraping the bottom of the barrel to find SOMETHING to complain about. That something ended up the packaging. Now in general, the packaging isn't that bad. The switches arrived to me in a plastic tube that is pretty common across switches. Despite this, when I see other companies like Akko including nice boxes to keep their switches safe, I can't help but feel as though other companies should learn a thing or two. In my case it didn't affect anything, all switches arrived in good condition with no bent pins, but a case/box similar to that which Akko provides would be a nice inclusion to help store spares and elevate the overall experience.
 
-## My Final Thoughts
+### My Final Thoughts
 Overall the Gateron Baby Raccoon is possibly the perfect switch for me. It's insanely smooth, I love the sound, and the being able to say that my keyboard switches are called a "Baby Raccoon" is priceless. I would not trade these switches in my keyboard for anything, and I am glad to see that creating a smooth linear for a good price has been achieved on the large manufacturing scale.
