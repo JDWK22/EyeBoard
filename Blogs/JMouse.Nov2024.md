@@ -12,7 +12,7 @@ This concept is nothing new, and people have been designing custom gaming mice a
  journey to learn CAD software and create my own mouse.
 
  ## Iterating My Design
- ### V1
+ ### Version 1
  The start of designing the mouse was rough, but thanks to my roommate Caden I was able to quickly pick up the basic actions within the CAD software I was using (Fusion 360) and get started on a mouse. The first few hours consisted of Caden essentially reaching over my shoulders,
  grabbing the keyboard and mouse, and telling me what he was doing. After a bit I started getting the hang of it. Learning what different extrusion options meant, how and why I should make new planes, even how to get proper measurements off the PCB from my old mouse I was harvesting for this creation.
  Eventually I got to a point where I was relatively self sufficient, and he left to visit his girlfriend out of town for a few days. From that point I was on my own, and all I had in front of me was a rough outline of the PCB dimensions and some standoffs for screws to line up with.
